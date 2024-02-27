@@ -22,7 +22,7 @@ My Yamatoの学生証機能について解説いたします。
 
 ## 学生証画面
 
-![](https://images.unsplash.com/photo-1706982706385-a50cccfcb8b5?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDgwNjk5ODV8\&ixlib=rb-4.0.3\&q=85)
+<figure><img src="https://images.unsplash.com/photo-1706982706385-a50cccfcb8b5?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDgwNjk5ODV8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="188"><figcaption></figcaption></figure>
 
 ### 基本情報
 

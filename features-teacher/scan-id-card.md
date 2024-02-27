@@ -19,7 +19,7 @@ My Yamatoアプリの学生証の読み取り機能について解説いたし�
 
 ## 学生証読み取り画面
 
-![](https://images.unsplash.com/photo-1705947172050-f930e2856301?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDgzMjE1ODB8\&ixlib=rb-4.0.3\&q=85)
+<figure><img src="https://images.unsplash.com/photo-1705947172050-f930e2856301?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDgzMjE1ODB8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="188"><figcaption></figcaption></figure>
 
 教員のMy Yamatoで、学生のMy Yamatoの識別コードを読み取り、読み取り履歴を保持する機能です。読み取りは以下の手順で行います。
 
@@ -35,7 +35,7 @@ My Yamatoアプリの学生証の読み取り機能について解説いたし�
 
 ## 読み取り一覧画面
 
-![](https://images.unsplash.com/photo-1705947172050-f930e2856301?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDgzMjE1ODB8\&ixlib=rb-4.0.3\&q=85)
+<figure><img src="https://images.unsplash.com/photo-1705947172050-f930e2856301?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDgzMjE1ODB8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="188"><figcaption></figcaption></figure>
 
 これまでに読み取ったすべての学生証データの履歴です。直近に読み取ったものを先頭に、新しい順番のリスト形式で表示します。
 

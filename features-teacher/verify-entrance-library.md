@@ -18,7 +18,7 @@ My Yamatoの教員向け機能を使用した図書館への入館について�
 
 ## 認証コード画面
 
-![](https://images.unsplash.com/photo-1706211306706-8f36d91c8379?crop=entropy\&cs=srgb\&fm=jpg\&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg0ODk0NTJ8\&ixlib=rb-4.0.3\&q=85)
+<figure><img src="https://images.unsplash.com/photo-1706211306706-8f36d91c8379?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDg0ODk0NTJ8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="188"><figcaption></figcaption></figure>
 
 My Yamatoにログインした後のトップ画面の右下に、認証コードを表示するためのボタンがあります。そちらをタップすることで認証コードをQRコードで表示する画面が立ち上がります。
 
