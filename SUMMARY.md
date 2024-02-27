@@ -14,6 +14,6 @@
 
 ## 教員向け機能 <a href="#features-teacher" id="features-teacher"></a>
 
-* [⏹️ 時間割と受講者の一覧](features-teacher/tono.md)
+* [⏹️ 時間割と受講者の一覧](features-teacher/top.md)
 * [✅ 学生証の読み取り](features-teacher/scan-id-card.md)
 * [✅ 図書館への入館](features-teacher/verify-entrance-library.md)
