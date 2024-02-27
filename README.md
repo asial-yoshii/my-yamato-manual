@@ -1,5 +1,5 @@
 ---
-description: ホーム大和大学公式アプリ My Yamato の使い方
+description: 大和大学公式アプリ My Yamato の使い方
 coverY: 0
 layout:
   cover:
