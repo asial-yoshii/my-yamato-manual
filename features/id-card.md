@@ -12,9 +12,9 @@ layout:
     visible: false
 ---
 
-# ✅ デジタル学生証
+# デジタル学生証
 
-My Yamatoの学生証機能について解説いたします。
+My Yamatoの学生証機能について解説します。
 
 {% hint style="info" %}
 通学定期券や学割乗車券の申請にデジタル学生証はご利用いただけません。
@@ -22,7 +22,7 @@ My Yamatoの学生証機能について解説いたします。
 
 ## 学生証画面
 
-<figure><img src="https://images.unsplash.com/photo-1706982706385-a50cccfcb8b5?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDgwNjk5ODV8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/id-card_11.PNG" alt="" width="188"><figcaption></figcaption></figure>
 
 ### 基本情報
 

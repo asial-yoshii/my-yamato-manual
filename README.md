@@ -19,32 +19,11 @@ layout:
 
 # My Yamato マニュアル
 
-## セットアップ
+My Yamatoの機能の使い方について、左のインデックスより項目を選択してください。
 
-{% content-ref url="setup/permissions.md" %}
-[permissions.md](setup/permissions.md)
-{% endcontent-ref %}
+{% hint style="info" %}
+My Yamatoアプリには、学生の皆様へ向けたお知らせの配信やアプリを利用した出席検知の機能があります。それらをご利用いただくために、初回起動時に適切に権限を設定していただくようお願いいたします。
 
-## 学生向け機能
-
-{% content-ref url="features/id-card.md" %}
-[id-card.md](features/id-card.md)
-{% endcontent-ref %}
-
-{% content-ref url="features/detect-attendance.md" %}
-[detect-attendance.md](features/detect-attendance.md)
-{% endcontent-ref %}
-
-{% content-ref url="features/verify-entrance-library.md" %}
-[verify-entrance-library.md](features/verify-entrance-library.md)
-{% endcontent-ref %}
-
-## 教員向け機能
-
-{% content-ref url="features-teacher/scan-id-card.md" %}
-[scan-id-card.md](features-teacher/scan-id-card.md)
-{% endcontent-ref %}
-
-{% content-ref url="features/verify-entrance-library.md" %}
-[verify-entrance-library.md](features/verify-entrance-library.md)
-{% endcontent-ref %}
+* これからアプリをインストールされる方は[こちら](setup/permissions1.md)をご確認ください
+* すでにアプリをインストールされている方は[こちら](setup/permissions2.md)をご確認ください
+{% endhint %}

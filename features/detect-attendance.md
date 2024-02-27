@@ -12,19 +12,19 @@ layout:
     visible: false
 ---
 
-# ✅ 出席検知
+# 出席検知
 
-My Yamatoアプリを使用した出席検知について解説いたします。
+My Yamatoアプリを使用した出席検知について解説します。
 
 {% hint style="info" %}
-出席検知の仕組みをご利用いただくには、アプリに対する権限が適切にされていることが前提となります。[こちらのページ](../setup/permissions.md)を参考に設定いただきますようお願いいたします。
+出席検知の仕組みをご利用いただくには、アプリに対する権限が適切にされていることが前提となります。[こちらのページ](../setup/permissions1.md)を参考に設定いただきますようお願いいたします。
 {% endhint %}
 
 ## 出席検知のご利用方法
 
 教室に入室したタイミングでアプリを起動し、該当の講義への出席状態が反映されることをご確認ください。[^1]
 
-<figure><img src="https://images.unsplash.com/photo-1702311178078-1edf877d3afe?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc4OTMxODd8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/attendance_01.png" alt="" width="187"><figcaption></figcaption></figure>
 
 講義へ出席したことの検知は、教室に設置された発信機（ビーコン）とアプリが通信することによって実現します。ビーコンとの通信を確実に行うためにはアプリが起動していることが必要です。必ずアプリを起動し出席状態を確認いただきますようお願いいたします。
 
@@ -64,7 +64,7 @@ My Yamatoアプリにおける出席検知では、GPS（衛星による位置�
 
 サービスの起動中は通知に表示されますが、通知からサービスを終了した場合は検知できません。また、当日の講義終了時刻にサービスも自動的に終了いたします。
 
-<figure><img src="https://images.unsplash.com/photo-1702311178078-1edf877d3afe?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDc4OTMxODd8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/attendance_02.png" alt="" width="188"><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
