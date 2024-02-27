@@ -1,6 +1,6 @@
 # Table of contents
 
-* [My Yamato マニュアル](README.md)
+* [Home](README.md)
 
 ## セットアップ <a href="#setup" id="setup"></a>
 

@@ -1,5 +1,5 @@
 ---
-description: 大和大学公式アプリ My Yamato の使い方
+description: ホーム大和大学公式アプリ My Yamato の使い方
 coverY: 0
 layout:
   cover:
@@ -17,7 +17,7 @@ layout:
     visible: false
 ---
 
-# My Yamato マニュアル
+# Home
 
 My Yamatoの機能の使い方について、左のインデックスより項目を選択してください。
 
